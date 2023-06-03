@@ -1,0 +1,1 @@
+<?php echo "Confirmar compra de producto"; ?>
